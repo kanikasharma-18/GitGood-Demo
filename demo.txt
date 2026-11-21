@@ -1,0 +1,1 @@
+GitGood protects this repository before commits.
