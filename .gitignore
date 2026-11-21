@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+
+# npm debug logs
+npm-debug.log*
+
+# Coverage and generated test output
+coverage/
+.nyc_output/
+test-results/
+playwright-report/

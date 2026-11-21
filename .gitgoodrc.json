@@ -1,0 +1,9 @@
+{
+  "maxFileSize": 5,
+  "protectedBranches": [
+    "main",
+    "master",
+    "production",
+    "develop"
+  ]
+}
